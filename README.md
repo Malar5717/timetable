@@ -124,4 +124,4 @@ Execute the program
 
 
 # OUTPUT
-![TIMETABLE] (timetable.png)
+![TIMETABLE](timetable.png)
